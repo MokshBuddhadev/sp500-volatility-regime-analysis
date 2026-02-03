@@ -49,7 +49,4 @@ Three distinct market regimes were identified:
 - Periods of high volatility and drawdowns tend to cluster  
 - Unsupervised learning can effectively identify hidden market states  
 
-## Future Work
-- Optimize number of clusters  
-- Add macroeconomic indicators  
-- Explore regime-based trading strategies  
+  
